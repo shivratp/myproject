@@ -2,7 +2,7 @@
     "name": "shivratp/project",
     "description": "My first composer trial",
     "type": "library",
-    "license": "no",
+    "license": "MIT",
     "authors": [
         {
             "name": "shivratp",
